@@ -1,0 +1,9 @@
+###############################################################################
+# block:
+# - <Material>;<Particle>;<offsetX>;<offsetY>;<offsetZ>;<count>;<second>
+###############################################################################
+# Particle: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Particle.html
+# Material: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+###############################################################################
+blocks:
+- STONE;FLAME;0.1;0.1;0.1;10;0.5

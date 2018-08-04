@@ -1,0 +1,10 @@
+name: BreakEffect
+version: ${project.version}
+main: me.hsgamer.breakeffect.BreakEffect
+authors: [HSGamer]
+description: Play Particles when breaking blocks
+commands:
+   breakeffect:
+      description: Show the plugin information
+      usage: /breakeffect
+      permission: breakeffect.use
